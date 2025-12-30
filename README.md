@@ -252,7 +252,7 @@ Gemini 2.5 Flash is highly capable—it rarely produces obvious garbage. This sy
 ### Quick Start
 ```bash
 # 1. Clone repository
-git clone <repo-url>
+git clone git@github.com:ByteWise-Cookie/llm-observability.git
 cd llm-observability
 
 # 2. Set environment variables
