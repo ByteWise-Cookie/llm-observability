@@ -4,8 +4,8 @@
 PROJECT_ID="coral-ethos-482409-a1"
 SERVICE_NAME="llm-observability-service"
 REGION="us-central1"
-DATADOG_API_KEY="8c191b1c94a97a600e6202f5ddcdc175"
-DATADOG_APP_KEY="0dc4ef3f405cd5ff05d38300173a6f4bf259643b"
+DATADOG_API_KEY=""
+DATADOG_APP_KEY=""
 
 # Build and push container
 echo "Building container..."
