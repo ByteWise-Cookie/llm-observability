@@ -327,5 +327,4 @@ Built for the AI Partner Catalyst using:
 
 For questions or feedback: cipher0xx@gmail.com
 
-**Demo Video:** [Link to demo]  
-**Live Dashboard:** [Link to public Datadog dashboard, if shareable]
+**Demo Video:** [..]
