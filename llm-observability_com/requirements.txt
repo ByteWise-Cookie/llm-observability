@@ -1,0 +1,5 @@
+flask
+google-cloud-aiplatform
+vertexai
+datadog-api-client
+gunicorn
