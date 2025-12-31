@@ -129,12 +129,18 @@ Composite operational signal combining:
 - Authenticated `gcloud` CLI  
 
 ### Quick Start
+
 ```bash
+# 1. Clone repository
 git clone git@github.com:ByteWise-Cookie/llm-observability.git
 cd llm-observability
 
-export GCP_PROJECT_ID=your-project-id
-export DATADOG_API_KEY=your-datadog-api-key
-export DATADOG_APP_KEY=your-datadog-app-key
+# 2. Make scripts executable (Linux only)
+chmod +x setup.sh deploy.sh
 
+# 3. Run setup (installs deps, validates environment)
+./setup.sh
+
+# 4. Deploy to Cloud Run
 ./deploy.sh
+
